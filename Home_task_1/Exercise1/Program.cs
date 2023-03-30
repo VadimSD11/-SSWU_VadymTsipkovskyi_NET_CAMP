@@ -1,7 +1,7 @@
 ﻿namespace Exercise1
 {
     internal class Program
-    {
+    {//Напишіть, будь ласка, що бачите мій коментар.
         public static int[,] FillSpiralSnake(int n, int m)
         {
             try
