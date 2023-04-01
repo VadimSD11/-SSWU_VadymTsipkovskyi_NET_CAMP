@@ -15,7 +15,7 @@
 
                 // задаємо напрям заповнення масиву
                 string direction = "down";
-
+// на кожній ітерації Ви уточнюєте напрям, а це неефективно!
                 // цикл заповнення масиву
                 for (int i = 1; i <= n * m; i++)
                 {
@@ -75,7 +75,7 @@
                 return matrix;
             }
             catch
-            {
+            {// метод є негнучкий.Він має прив'язку до консолі.
                 Console.WriteLine("Wrong input data");
                 throw new Exception("Wrong input data");
             }
