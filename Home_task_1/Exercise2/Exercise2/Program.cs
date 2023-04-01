@@ -3,7 +3,7 @@
 namespace Exercise2
 {
     internal class Program
-    {
+    {// Потрібно розділити на 2 методи
         public static void FindAndPrintLongestHorizontalLine(int[,] arr)
         {
             //змінні для пошуку запитаної інформації
