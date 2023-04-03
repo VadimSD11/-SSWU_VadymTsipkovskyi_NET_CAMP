@@ -1,0 +1,15 @@
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\bin\Debug\net6.0\Home_Task_3.exe
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\bin\Debug\net6.0\Home_Task_3.deps.json
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\bin\Debug\net6.0\Home_Task_3.runtimeconfig.json
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\bin\Debug\net6.0\Home_Task_3.dll
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\bin\Debug\net6.0\Home_Task_3.pdb
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\obj\Debug\net6.0\Home_Task_3.csproj.AssemblyReference.cache
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\obj\Debug\net6.0\Home_Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\obj\Debug\net6.0\Home_Task_3.AssemblyInfoInputs.cache
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\obj\Debug\net6.0\Home_Task_3.AssemblyInfo.cs
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\obj\Debug\net6.0\Home_Task_3.csproj.CoreCompileInputs.cache
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\obj\Debug\net6.0\Home_Task_3.dll
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\obj\Debug\net6.0\refint\Home_Task_3.dll
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\obj\Debug\net6.0\Home_Task_3.pdb
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\obj\Debug\net6.0\Home_Task_3.genruntimeconfig.cache
+C:\Users\Vadim_y9xms2s\source\repos\Home_Task_3\Home_Task_3\obj\Debug\net6.0\ref\Home_Task_3.dll
