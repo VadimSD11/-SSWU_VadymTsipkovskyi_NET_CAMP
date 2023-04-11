@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Home_Task_2
 {
     internal class Simulator
-    {
+    {// не продумана схема...
         private readonly WaterTower  _waterTower;
         private readonly User _user;
         private readonly Pump _pump;
