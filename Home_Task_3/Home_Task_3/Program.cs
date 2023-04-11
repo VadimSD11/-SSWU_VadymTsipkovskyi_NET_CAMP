@@ -3,7 +3,7 @@
 namespace Home_Task_3
 {
     internal class Program
-    {
+    {1. задача. Класи користувач та Вежа взаємодіють.
         static void Main(string[] args)
         {
 
