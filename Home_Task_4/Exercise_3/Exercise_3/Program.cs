@@ -4,7 +4,10 @@
     {
         static void Main(string[] args)
         {
-            BillingSystem bl = new BillingSystem("C:\\Users\\Vadim_y9xms2s\\source\\repos\\Exercise_3\\Exercise_3\\Bills.txt");
+            Console.Write("Path to file: ");
+            string file = Console.ReadLine();
+            BillingSystem bl = new BillingSystem(file);
+            //BillingSystem bl = new BillingSystem("C:\\Users\\Vadim_y9xms2s\\source\\repos\\Exercise_3\\Exercise_3\\Bills.txt");
             Console.WriteLine();
             bl.PrintApartmentInfo(102);
             Console.WriteLine();
