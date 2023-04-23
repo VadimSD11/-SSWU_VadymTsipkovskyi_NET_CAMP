@@ -8,10 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Exercise__1
-{
+{//алгоритм Джарвіса реалізували добре, але стиль написання коду мені не дуже подобається. Треба над цим попрацювати.
     public class Garden : IEquatable<Garden>
     {
         private Tree[] trees;
+        
         private double dovzhinaZabory;
 
         public Garden(Tree[] trees)
