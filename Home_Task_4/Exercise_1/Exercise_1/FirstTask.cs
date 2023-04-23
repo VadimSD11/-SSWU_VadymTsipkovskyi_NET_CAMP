@@ -8,7 +8,7 @@ using static System.Net.Mime.MediaTypeNames;
 namespace Exercise_1
 {
     public static class FirstTask
-    {
+    {//За умовою задачі має бути колекція, яку не можна зливати в одну стрічку...
         public static string[] GetStringArray(string str) {
             char[] signs = { '.', '!', '?' };//роздільні знаки
 
