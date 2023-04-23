@@ -3,7 +3,7 @@
 namespace Exercise4
 {
     internal class Program
-    {
+    {// тут немає вможливості звертатись за ідексацією для ініалізації, а також не враховано, що тензор може приймати число, або вектор довілного порядку.
         static void Main(string[] args)
         {
             Console.OutputEncoding = UTF8Encoding.UTF8;
