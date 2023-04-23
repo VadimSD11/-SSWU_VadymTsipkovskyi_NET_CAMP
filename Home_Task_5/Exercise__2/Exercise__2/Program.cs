@@ -3,7 +3,7 @@
 namespace Exercise__2
 {
     internal class Program
-    {
+    {// немає копії вікна виконання.
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
