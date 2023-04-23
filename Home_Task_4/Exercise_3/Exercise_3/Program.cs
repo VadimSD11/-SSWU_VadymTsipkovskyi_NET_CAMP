@@ -1,7 +1,7 @@
 ﻿namespace Exercise_3
 {
     internal class Program
-    {
+    {// Відформатовано добре.
         static void Main(string[] args)
         {
             Console.Write("Path to file: ");
