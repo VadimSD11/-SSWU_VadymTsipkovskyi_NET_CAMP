@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Exercise3
-{
+{// Не враховано подібність коду на 3 вітках. тут можна оптимізувати....
     internal class Cube
     {
         int[,,] _cube;
@@ -40,6 +40,7 @@ namespace Exercise3
                 for (int j = 0; j < _cube.GetLength(1); j++)
                 {
                     // Шукаємо отвір у осі X
+                    // ваш коментар не коректний. Змінюється третя координата...
                     bool holeExistsAlongX = true;
                     for (int k = 0; k < _cube.GetLength(2); k++)
                     {
@@ -84,7 +85,7 @@ namespace Exercise3
                         }
                     }
                     if (holeExistsAlongZ)
-                    {
+                    {//роздруки в модельних класах є не бажані.
                         Console.WriteLine("Отвір знайдено у осі Z:");
                         Console.WriteLine($"Початок отвору: (0, {i}, {j})");
                         Console.WriteLine($"Кінець отвору: ({_cube.GetLength(0) - 1}, {i}, {j})");
