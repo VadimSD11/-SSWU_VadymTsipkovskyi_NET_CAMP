@@ -36,6 +36,7 @@ namespace Exercise_2
             for (int i = 0; i < beforeAt.Length; i++)
             {
                 char c = beforeAt[i];
+                // Краще перевіряти готовим методом.
                 if (!char.IsLetterOrDigit(c) && c != '!' && c != '#' && c != '$' && c != '%' && c != '&'
                     && c != '\'' && c != '*' && c != '+' && c != '-' && c != '/' && c != '=' && c != '?' && c != '^'
                     && c != '_' && c != '`' && c != '{' && c != '|' && c != '}' && c != '~' && c != '.')
@@ -64,7 +65,7 @@ namespace Exercise_2
                     }
                 }
             }
-
+// Ви не врахували всіх умов...
             return true;
         }
         public static string[] GetRealEmails(string str) {
