@@ -1,5 +1,5 @@
 ﻿namespace Exercise__1
-{
+{//Vadym		90	10	10	85	85	65	95	94 Вітаю Вас в 2 турі.
     internal class Program
     {
         static void Main(string[] args)
