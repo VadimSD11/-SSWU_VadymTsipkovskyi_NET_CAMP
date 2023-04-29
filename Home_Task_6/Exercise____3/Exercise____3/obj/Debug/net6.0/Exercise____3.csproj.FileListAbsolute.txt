@@ -1,0 +1,15 @@
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\bin\Debug\net6.0\Exercise____3.exe
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\bin\Debug\net6.0\Exercise____3.deps.json
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\bin\Debug\net6.0\Exercise____3.runtimeconfig.json
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\bin\Debug\net6.0\Exercise____3.dll
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\bin\Debug\net6.0\Exercise____3.pdb
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\obj\Debug\net6.0\Exercise____3.csproj.AssemblyReference.cache
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\obj\Debug\net6.0\Exercise____3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\obj\Debug\net6.0\Exercise____3.AssemblyInfoInputs.cache
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\obj\Debug\net6.0\Exercise____3.AssemblyInfo.cs
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\obj\Debug\net6.0\Exercise____3.csproj.CoreCompileInputs.cache
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\obj\Debug\net6.0\Exercise____3.dll
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\obj\Debug\net6.0\refint\Exercise____3.dll
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\obj\Debug\net6.0\Exercise____3.pdb
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\obj\Debug\net6.0\Exercise____3.genruntimeconfig.cache
+C:\Users\Vadim_y9xms2s\source\repos\Exercise____3\Exercise____3\obj\Debug\net6.0\ref\Exercise____3.dll
