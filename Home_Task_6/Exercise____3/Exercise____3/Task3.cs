@@ -11,7 +11,7 @@ namespace Exercise____3
         public static IEnumerable<string> GetWordsUni(string text)
         {
             string[] words = text.Split(new[] { ' ', '.', ',', ';', ':' }, StringSplitOptions.RemoveEmptyEntries);
-            
+           // краще працювати з множиною. 
             List<string> uniWords = new List<string>();
 
             foreach (var item1 in words)
