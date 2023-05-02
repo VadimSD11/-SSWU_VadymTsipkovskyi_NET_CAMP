@@ -15,6 +15,7 @@ namespace Exercise___2
             {
                 arrs.AddRange(array);
             }
+            
             arrs.Sort();//сортуємо
             foreach (var item in arrs)
             {
