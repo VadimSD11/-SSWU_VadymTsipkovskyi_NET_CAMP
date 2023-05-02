@@ -13,7 +13,7 @@ namespace Exercise___1
         private readonly int[,] matrix;
 
         public SpiralMatrix(int[,] matrix)
-        {
+        {// Чесно, вже втомилась говорити про глибоку копію... Просто ріжу бали...
             this.matrix = matrix;
         }
 
@@ -29,7 +29,7 @@ namespace Exercise___1
                 yield return matrix[i, j];
 
                 if (goDown)
-                {
+                {// Чим 3 особлива. У нас матриця мала бути довільного розміру.
                     if (i == 3)
                     {
                         j++;
