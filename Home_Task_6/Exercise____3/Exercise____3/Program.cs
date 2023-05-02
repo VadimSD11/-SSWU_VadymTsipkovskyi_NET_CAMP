@@ -1,5 +1,5 @@
 ﻿namespace Exercise____3
-{
+{// Сумарний бал - 80
     internal class Program
     {
         static void Main(string[] args)
