@@ -1,0 +1,17 @@
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\bin\Debug\net6.0-windows\Home_task_7b_windowsformsapp.exe
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\bin\Debug\net6.0-windows\Home_task_7b_windowsformsapp.deps.json
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\bin\Debug\net6.0-windows\Home_task_7b_windowsformsapp.runtimeconfig.json
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\bin\Debug\net6.0-windows\Home_task_7b_windowsformsapp.dll
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\bin\Debug\net6.0-windows\Home_task_7b_windowsformsapp.pdb
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\obj\Debug\net6.0-windows\Home_task_7b_windowsformsapp.csproj.AssemblyReference.cache
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\obj\Debug\net6.0-windows\Home_task_7b_windowsformsapp.Form1.resources
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\obj\Debug\net6.0-windows\Home_task_7b_windowsformsapp.csproj.GenerateResource.cache
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\obj\Debug\net6.0-windows\Home_task_7b_windowsformsapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\obj\Debug\net6.0-windows\Home_task_7b_windowsformsapp.AssemblyInfoInputs.cache
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\obj\Debug\net6.0-windows\Home_task_7b_windowsformsapp.AssemblyInfo.cs
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\obj\Debug\net6.0-windows\Home_task_7b_windowsformsapp.csproj.CoreCompileInputs.cache
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\obj\Debug\net6.0-windows\Home_task_7b_windowsformsapp.dll
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\obj\Debug\net6.0-windows\refint\Home_task_7b_windowsformsapp.dll
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\obj\Debug\net6.0-windows\Home_task_7b_windowsformsapp.pdb
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\obj\Debug\net6.0-windows\Home_task_7b_windowsformsapp.genruntimeconfig.cache
+C:\Users\Vadim_y9xms2s\source\repos\Home_task_7b_windowsformsapp\Home_task_7b_windowsformsapp\obj\Debug\net6.0-windows\ref\Home_task_7b_windowsformsapp.dll
