@@ -73,10 +73,7 @@ namespace Home_task_8
             YellowDuration = TimeSpan.FromSeconds(yellow);
             GreenDuration = TimeSpan.FromSeconds(green);
         }
-        public void SimpleCycle() {
-            while (true) { this.Switch(); }
 
-        }
         public virtual void Switch()
         {
             switch (CurrentColor)
