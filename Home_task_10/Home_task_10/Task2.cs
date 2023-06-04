@@ -14,8 +14,8 @@ namespace Home_task_10
                 new Product { Weight = 2, Size = 13, Days=4 },
                 new Electronics { Weight = 4, Size = 15, ExcessChargePercentage = 15 },
                 new Clothes { Weight = 1, Size = 2 },
-                new Product { Weight = 2, Size = 13, Days=14 }
-                new Electronics { Weight = 4, Size = 9, ExcessChargePercentage = 15 },
+                new Product { Weight = 2, Size = 13, Days=14 },
+                new Electronics { Weight = 4, Size = 9, ExcessChargePercentage = 15 }
 
                  };
             Client.ClientCode(components, shopVisitor);
