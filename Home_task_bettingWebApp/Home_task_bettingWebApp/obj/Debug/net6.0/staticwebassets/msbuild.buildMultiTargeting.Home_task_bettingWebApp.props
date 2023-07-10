@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Home_task_bettingWebApp.props" />
+</Project>

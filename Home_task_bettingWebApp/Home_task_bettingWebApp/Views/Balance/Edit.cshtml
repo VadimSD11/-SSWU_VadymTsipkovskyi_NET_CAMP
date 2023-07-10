@@ -1,0 +1,20 @@
+﻿@model Home_task_bettingWebApp.Models.Balance
+
+<h1>Edit Balance</h1>
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="BalanceId" />
+
+    <div class="form-group">
+        <label asp-for="UserId">User ID:</label>
+        <select asp-for="UserId" asp-items="@ViewBag.UserList" class="form-control"></select>
+        <span asp-validation-for="UserId" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Amount">Amount:</label>
+        <input asp-for="Amount" class="form-control" />
+        <span asp-validation-for="Amount" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index">Back to List</a>
+</form>

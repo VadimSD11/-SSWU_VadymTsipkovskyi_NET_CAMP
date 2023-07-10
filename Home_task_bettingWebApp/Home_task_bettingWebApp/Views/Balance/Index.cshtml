@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Home_task_bettingWebApp.Models.Balance>
+
+<h1>Balance List</h1>
+<link rel="stylesheet" href="Styles.css" />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Balance ID</th>
+            <th>User ID</th>
+            <th>Amount</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var balance in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-controller="Balance" asp-action="Details" asp-route-id="@balance.BalanceId">@balance.BalanceId</a>
+                </td>
+                <td>
+                    <a asp-controller="User" asp-action="Details" asp-route-id="@balance.UserId">@balance.UserId</a>
+                </td>
+                <td>@balance.Amount</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@balance.BalanceId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@balance.BalanceId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-action="Create">Create New Balance</a>

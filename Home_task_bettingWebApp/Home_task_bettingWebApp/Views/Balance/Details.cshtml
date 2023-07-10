@@ -1,0 +1,38 @@
+﻿@model Home_task_bettingWebApp.Models.Balance
+
+<h1>Balance Details</h1>
+
+<p><strong>User ID:</strong> @Model.UserId</p>
+<p><strong>Amount:</strong> @Model.Amount</p>
+
+<h3>Transactions</h3>
+@if (ViewBag.Transactions != null && ViewBag.Transactions.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Transaction ID</th>
+                <th>Amount</th>
+                <th>Transaction Time</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var transaction in ViewBag.Transactions)
+            {
+                <tr>
+                    <td>@transaction.TransactionId</td>
+                    <td>@transaction.Amount</td>
+                    <td>@transaction.TransactionTime</td>
+                    <td>@transaction.Description</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No transactions found.</p>
+}
+
+<a asp-action="Index">Back to List</a>

@@ -1,0 +1,20 @@
+﻿@model Home_task_bettingWebApp.Models.Balance
+
+<h1>Delete Balance</h1>
+
+<p>Are you sure you want to delete this balance?</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="BalanceId" />
+
+    <div class="form-group">
+        <label asp-for="UserId">User ID:</label>
+        <input asp-for="UserId" class="form-control" disabled />
+    </div>
+    <div class="form-group">
+        <label asp-for="Amount">Amount:</label>
+        <input asp-for="Amount" class="form-control" disabled />
+    </div>
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-action="Index">Cancel</a>
+</form>

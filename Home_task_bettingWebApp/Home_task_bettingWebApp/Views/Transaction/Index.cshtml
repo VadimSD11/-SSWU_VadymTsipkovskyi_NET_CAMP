@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Home_task_bettingWebApp.Models.Transaction>
+
+<h1>Transaction List</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Transaction ID</th>
+            <th>User ID</th>
+            <th>Amount</th>
+            <th>Transaction Time</th>
+            <th>Description</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var transaction in Model)
+        {
+            <tr>
+                <td>@transaction.TransactionId</td>
+                <td>
+                    <a asp-controller="User" asp-action="Details" asp-route-id="@transaction.UserId">@transaction.UserId</a>
+                </td>
+                <td>@transaction.Amount</td>
+                <td>@transaction.TransactionTime</td>
+                <td>@transaction.Description</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@transaction.TransactionId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@transaction.TransactionId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a asp-action="Create">Create New Transaction</a>
